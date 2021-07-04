@@ -56,8 +56,8 @@ section{
   .display{
       display:block;
   }
-  .footer{
-      position: static;
+  footer p{
+      text-align: left;
   }
   .image{
       float: left;
