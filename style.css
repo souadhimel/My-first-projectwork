@@ -5,6 +5,9 @@ h1{
     font-size: 50px;
     
 }
+.flower{
+    font-weight: 100;
+}
 .name{
     color: crimson;
 }
@@ -27,12 +30,10 @@ section{
 .bangla{
     font-family: monospace;
     font-size: 20px;
-    border: lawngreen;
+  
+    font-weight: 100;
 }
-.given{
-color: magenta;
-box-shadow: mediumblue;
-}
+
 * {
     box-sizing: border-box;
   }
@@ -53,4 +54,9 @@ box-shadow: mediumblue;
   }
   .footer{
       position: static;
+  }
+  /* .picture{ */
+      display: inline-block;
+      height: 100px;
+      width: 100px;
   }
